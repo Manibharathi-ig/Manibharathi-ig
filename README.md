@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mani Bharathi 
 
-<!--
-**Manibharathi-ig/Manibharathi-ig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from Tamil Nadu, India.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React Developer
+- Learning Full Stack Development
+- Interested in AI and Data Science
+- Building real-world projects
+
+## Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- PostgreSQL
+- Prisma ORM
+
+## Current Project
+
+- Full Stack Portfolio Website
