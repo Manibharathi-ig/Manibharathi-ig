@@ -85,7 +85,6 @@ Features:
 - Portfolio Website
 - Admin Authentication
 - Contact Form
-- Email Notifications
 - Contact Management Dashboard
 - Lead Tracking System
 
