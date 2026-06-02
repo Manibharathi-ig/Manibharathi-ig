@@ -1,111 +1,133 @@
 # Hi, I'm Mani Bharathi 
 
-Full Stack Developer from Tamil Nadu, India.
+### Full Stack Developer | React • Next.js • Node.js • PostgreSQL • Prisma
 
-## About Me
-
-- Full Stack Developer with 1+ year of industry experience
-- Worked on 6+ WordPress and eCommerce projects
-- Experience with React, Next.js, Node.js, Express, PostgreSQL and Prisma
-- Interested in AI, Data Science and Machine Learning
-- Passionate about building scalable web applications and solving real-world problems
+I'm a Full Stack Developer from Tamil Nadu, India, with experience building web applications, eCommerce platforms, admin dashboards, and business websites. I enjoy solving real-world problems through technology and continuously expanding my knowledge in software development, data science, and artificial intelligence.
 
 ---
 
-## Technical Skills
+##  About Me
+
+*  Full Stack Developer with 1+ year of industry experience
+*  Delivered multiple web and eCommerce projects
+*  Experienced in React, Next.js, Node.js, Express.js, PostgreSQL, and Prisma
+*  Skilled in REST API development and database management
+*  Currently learning Data Science, Machine Learning, and AI
+*  Goal: Transition into AI Engineering and Data Science roles
+
+---
+
+##  Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5
-- CSS3
+
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication & Authorization
 
 ### Database
-- PostgreSQL
-- MySQL
-- Prisma ORM
+
+* PostgreSQL
+* MySQL
+* Prisma ORM
 
 ### CMS & E-Commerce
-- WordPress
-- WooCommerce
-- OpenCart
 
-### Other Tools
-- Git
-- GitHub
-- cPanel
-- Domain & DNS Management
-- Hosting & Deployment
+* WordPress
+* WooCommerce
+* OpenCart
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* cPanel
+* Hosting & Deployment
+* Domain & DNS Management
 
 ---
 
-## Professional Experience
+##  Professional Experience
 
 ### WordPress Developer | Explore Intellects
 
-- Delivered 6+ client websites using WordPress and WooCommerce
-- Customized themes and plugins based on business requirements
-- Managed website hosting, deployment and DNS configurations
-- Worked with eCommerce solutions and payment integrations
-- Collaborated with designers and clients to deliver production-ready websites
+* Delivered and maintained business and eCommerce websites
+* Customized WordPress themes and plugins
+* Managed hosting, deployment, and DNS configurations
+* Worked with WooCommerce and payment integrations
+* Collaborated with clients and designers to deliver production-ready solutions
 
-### Full Stack Development Experience
+### Full Stack Development Projects
 
-- Worked on a Next.js + Prisma + MySQL eCommerce application
-- Worked on a React + Express + PostgreSQL service management platform
-- Contributed to CRM frontend development using React
-- Integrated APIs and handled frontend-backend communication
-- Worked with database design and management
+* Built a Portfolio Management System using React, Node.js, PostgreSQL, and Prisma
+* Developed Admin Dashboard with CRUD operations
+* Created REST APIs and integrated frontend-backend communication
+* Implemented authentication and database management
+* Worked on scalable web application architecture
 
 ---
 
-## Featured Project
+##  Featured Projects
 
 ### Bharathi Portfolio
 
-A full-stack portfolio application built with:
+Full Stack Portfolio Application
 
-- React
-- TypeScript
-- Node.js
-- Express.js
-- PostgreSQL
-- Prisma ORM
+**Tech Stack**
 
-Features:
+* React
+* TypeScript
+* Node.js
+* Express.js
+* PostgreSQL
+* Prisma ORM
 
-- Portfolio Website
-- Admin Authentication
-- Contact Form
-- Contact Management Dashboard
-- Lead Tracking System
+**Features**
 
-Repository:
-- Bharathi Portfolio
+* Portfolio Website
+* Admin Authentication
+* Contact Form Management
+* Dashboard Analytics
+* Lead Tracking System
+* REST API Integration
 
----
-
-## Current Learning
-
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Advanced Full Stack Development
+🔗 Repository: [bharathi-portfolio](https://github.com/Manibharathi-lg/bharathi-portfolio)
 
 ---
 
-## Connect With Me
+##  Currently Learning
+
+* Python Programming
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Data Analysis
+* Advanced Full Stack Development
+
+---
+
+## 📫 Connect With Me
 
 📍 Tamil Nadu, India
 
-💼 Open to Full Stack Developer opportunities
+📧 Email: [manibharathixplore@gmail.com](mailto:manibharathixplore@gmail.com)
 
-🚀 Always learning and building
+💼 LinkedIn: https://www.linkedin.com/in/mani-bharathi2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+🌐 Portfolio: https://bharathi-portfolio-two.vercel.app/
+
+---
+
+⭐ Always learning, building, and improving.
